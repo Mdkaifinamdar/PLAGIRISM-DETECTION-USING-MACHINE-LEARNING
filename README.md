@@ -40,7 +40,7 @@ In today's digital world, plagiarism detection has become essential across acade
 
 Clone the repository:
 git clone https://github.com/Mdkaifinamdar/PLAGIRISM-DETECTION-USING-MACHINE-LEARNING.git
-cd plagiarism-detection-ml
+cd PLAGIRISM-DETECTION-USING-MACHINE-LEARNING
 
 Install Flask:
 pip install Flask
