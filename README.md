@@ -39,7 +39,7 @@ In today's digital world, plagiarism detection has become essential across acade
 ## Setup and Installation
 
 Clone the repository:
-git clone [https://github.com/your-username/plagiarism-detection-ml.git](https://github.com/Mdkaifinamdar/PLAGIRISM-DETECTION-USING-MACHINE-LEARNING.git)
+git clone https://github.com/Mdkaifinamdar/PLAGIRISM-DETECTION-USING-MACHINE-LEARNING.git
 cd plagiarism-detection-ml
 
 Install Flask:
